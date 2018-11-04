@@ -8,7 +8,7 @@
 </head>
     <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Chapter 6: Reservations</title>
+    <title>manik's github assignment</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <script src="Scripts/jquery-1.9.1.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
@@ -23,7 +23,7 @@
 
         <main>
             <form id="form2" runat="server" class="form-horizontal">
-                <h1>Reservation Request</h1>
+                <h1>manik's github assignment</h1>
 
                 <h3>Request data</h3>
                 <div class="form-group">
